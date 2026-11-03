@@ -3,7 +3,7 @@
 Project of UCL CASA0014.
 The acceleroBox is a card board box with a sensor similar to a black box in a plane.
 
-The wifi connection and mqtt connection uses code in https://github.com/ucl-casa-ce/casa0014/blob/main/vespera/workshop-sketch/mkr1010_mqtt_simple/connections.ino.
+The wifi connection and mqtt connection use code in https://github.com/ucl-casa-ce/casa0014/blob/main/vespera/workshop-sketch/mkr1010_mqtt_simple/connections.ino.
 
 ## Hardware
 Arduino board: Arduino MKR WIFI 1010
