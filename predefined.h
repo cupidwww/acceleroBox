@@ -25,7 +25,7 @@ const int PAYLOAD_SIZE = NUM_LEDS * 3;
 const uint8_t SENSOR_ADDRESS = 0x6A;  // DO -> GND
 //const uint8_t SENSOR_ADDRESS = 0x6B; // do -> vcc
 const float ACCEL_LOW = 9.81f;
-const float ACCEL_HIGH = 25.0f;
+const float ACCEL_HIGH = 18.0f;
 
 const float SMOOTHING_ALPHA = 0.2f;
 const unsigned long UPDATE_INTERVAL_MS = 50;
